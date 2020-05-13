@@ -1,0 +1,14 @@
+{
+  "main.js": "static/js/main.e0bc022f.js",
+  "main.js.map": "static/js/main.e0bc022f.js.map",
+  "ssr.js": "static/js/ssr.d3e8482a.js",
+  "ssr.js.map": "static/js/ssr.d3e8482a.js.map",
+  "discord-invite/index.html": "discord-invite/index.html",
+  "favicon.png": "favicon.png",
+  "index.html": "index.html",
+  "prototype/forum.makerdao.com/index.html": "prototype/forum.makerdao.com/index.html",
+  "prototype/index.html": "prototype/index.html",
+  "test/FileUploader/index.html": "test/FileUploader/index.html",
+  "test/TimelineCredView/index.html": "test/TimelineCredView/index.html",
+  "timeline/forum.makerdao.com/index.html": "timeline/forum.makerdao.com/index.html"
+}
